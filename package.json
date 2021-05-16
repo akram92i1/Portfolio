@@ -1,0 +1,36 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "this project will contain my portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "serve": "webpack serve --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/preset-env": "^7.14.1",
+    "@babel/preset-react": "^7.13.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.4",
+    "file-loader": "^6.2.0",
+    "radium": "^0.26.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.32.12",
+    "sass-loader": "^11.1.0",
+    "save": "^2.4.0",
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0",
+    "wepback": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.2"
+  }
+}
